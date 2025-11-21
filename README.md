@@ -85,7 +85,7 @@ plt.title("Customer Segments")
 <img width="279" height="174" alt="image" src="https://github.com/user-attachments/assets/94fb8cc4-3eb6-4b07-91a4-e74457d2e4b8" />
 
 
-<img width="732" height="761" alt="image" src="https://github.com/user-attachments/assets/c8190edc-2ad3-41cc-ac57-fc39b993c255" />
+
 
 
 <img width="732" height="761" alt="image" src="https://github.com/user-attachments/assets/eca0831d-fff5-4c08-af94-7040e51ebc9d" />
